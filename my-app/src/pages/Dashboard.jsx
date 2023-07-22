@@ -1,5 +1,5 @@
 import { Avatar, Box, Button, Card, CardBody, CardFooter, CardHeader, Divider, Flex, HStack, Heading, SimpleGrid, Text } from "@chakra-ui/react";
-import { useLoaderData } from "react-router";
+
 import { tasksList } from "../data/tasks";
 import { EditIcon, ViewIcon } from "@chakra-ui/icons";
 
