@@ -1,8 +1,6 @@
 import { Avatar, Box, Button, Card, CardBody, CardFooter, CardHeader, Divider, Flex, HStack, Heading, SimpleGrid, Text } from "@chakra-ui/react";
-
 import { tasksList } from "../data/tasks";
 import { EditIcon, ViewIcon } from "@chakra-ui/icons";
-
 
 export default function Dashboard() {
 // const tasks = useLoaderData()
